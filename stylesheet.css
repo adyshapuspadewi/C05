@@ -1,16 +1,7 @@
 header {
-    height: 65px;
-    width: 100%;
-    background-color: #f6e58d;
-}
-
-
-
-li{
-    list-style: none;
-    float: left;
-    padding: 10px 15px;
-    font-family: 'Franklin Gothic Medium';
+   background-color: #26d0c9;
+  color: #fff;
+  height: 90px;
 }
 
 .logo {
