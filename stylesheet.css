@@ -2,18 +2,9 @@ header {
     height: 65px;
     width: 100%;
     background-color: #f6e58d;
-    position: fixed;
-    top: 0px;
 }
 
-.header_left {
-    float: left;
-}
 
-.header_right {
-  float: right;  
-  margin-right: 5%;
-}
 
 li{
     list-style: none;
@@ -24,7 +15,6 @@ li{
 
 .logo {
     width: 80px;
-    margin-top: 4px;
-    margin-left: 50px;
+    margin-top: 10px;
 }
 
